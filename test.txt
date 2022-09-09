@@ -1,6 +1,0 @@
-Hiu,22,Gia Lai
-Hieu,21,Gia Lai 2
-Hiu Dz,20,Gia Lai 3
-Hiu Super Dz,23,Gia Lai 4
-Ngan,22,An Khe
-Ngan Cute,22,An Khe 2
